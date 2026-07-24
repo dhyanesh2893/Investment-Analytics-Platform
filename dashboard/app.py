@@ -1,6 +1,6 @@
 import streamlit as st
 
-from dashboard.database import (
+from database import (
     fetch_trade_summary,
     fetch_symbol_summary,
     fetch_exchange_summary,
